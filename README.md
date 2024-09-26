@@ -5,7 +5,7 @@ Mining wallet online tool
 ## ORIGINAL REPO
 24h and you will find first wallet with balance 
 
-
+.
 Install: 
 ```
 https://github.com/skone8544/bnb-finder/
